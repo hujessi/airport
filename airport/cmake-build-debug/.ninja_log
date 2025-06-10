@@ -1,0 +1,10 @@
+# ninja log v6
+78	185	7707356268054541	TG_jhu_dgega_fcascan.exe	88634d0e9fafd0a1
+4	581	1749137459044150925	CMakeFiles/TG_jhu_dgega_fcascan.dir/main.c.o	de9fda60bb29d1bb
+24	755	1749137749055345885	CMakeFiles/TG_jhu_dgega_fcascan.dir/grafo.c.o	a74142e80955857d
+5	494	1749137530377628955	CMakeFiles/TG_jhu_dgega_fcascan.dir/aeropuertos.c.o	b79be2ae3a31b9c0
+755	1087	1749137749786396127	TG_jhu_dgega_fcascan	cc6f57f3a11bdd8
+4	592	1749592568868567300	CMakeFiles/TG_jhu_dgega_fcascan.dir/main.c.o	f261515c41affa2a
+6	593	1749592568870487237	CMakeFiles/TG_jhu_dgega_fcascan.dir/aeropuertos.c.o	f89aafcd3632a5b6
+5	615	1749592568870038742	CMakeFiles/TG_jhu_dgega_fcascan.dir/grafo.c.o	444e23ccaa19914c
+616	1151	1749592569480291162	TG_jhu_dgega_fcascan	cc6f57f3a11bdd8
